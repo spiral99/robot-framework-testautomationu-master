@@ -1,0 +1,10 @@
+report.html
+log.html
+output.xml
+*.jpg
+*.png
+*.log
+.idea
+*.pyc
+*.db
+.DS_Store
